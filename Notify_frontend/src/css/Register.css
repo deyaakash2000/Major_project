@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+  }
+  
+    @media(max-width: 459px){
+    .container .content .category{
+      flex-direction: column;
+    }
+  }
+
+  
+.regimg{
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url('../images/register.avif');
+    background-position: center;
+}
+
+.back{
+    background-image: url('../images/regibackground.png');
+   
+}

@@ -1,0 +1,14 @@
+
+@media (max-width : 300px ) {
+    .adjust{
+        margin: 10%;
+    }
+}
+.adjust{
+    margin-left: 18%;
+}
+
+.fontStyle{
+    font-family: 'Roboto Slab', serif;
+    font-size: 50px;
+}

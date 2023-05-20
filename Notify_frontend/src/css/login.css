@@ -1,0 +1,10 @@
+
+
+.backGround{
+    background-image: url('../images/logBackground.png');
+}
+
+.logiImg{
+    background-image: url('../images/login.avif');
+    background-position: center;
+}
